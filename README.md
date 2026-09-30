@@ -89,13 +89,13 @@ ai-sales-copilot/
 └── services/ # API, Firebase, Auth
 
 ## Screenshots
-![Ai Assistant(chatbot)](image.png)
-![Auto updated task Sheet](image-1.png)
-![auto updated funnel sheet](image-2.png)
-![pipeline visability](image-3.png)
-![meeting summary](image-4.png)
-![MOM generation](image-5.png)
-![battlecard genration -1](image-6.png)
-![battlecard genration -2](image-7.png)
-![manager view](image-8.png)
-![adding menbers to team](image-9.png)
+![Ai Assistant(chatbot)](assets/image.png)
+![Auto updated task Sheet](assets/image-1.png)
+![auto updated funnel sheet](assets/image-2.png)
+![pipeline visability](assets/image-3.png)
+![meeting summary](assets/image-4.png)
+![MOM generation](assets/image-5.png)
+![battlecard genration -1](assets/image-6.png)
+![battlecard genration -2](assets/image-7.png)
+![manager view](assets/image-8.png)
+![adding menbers to team](assets/image-9.png)
