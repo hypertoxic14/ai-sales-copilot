@@ -1,0 +1,21 @@
+# Firebase credentials — 
+backend/firebase_key.json
+
+# Environment variables —
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Python
+backend/__pycache__/
+backend/uploads/
+backend/*.pyc
+backend/venv/
+backend/.venv/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Whisper model cache
+*.pt

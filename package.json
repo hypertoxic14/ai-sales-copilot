@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.2.10",
+    "axios": "^1.16.0",
+    "date-fns": "^4.1.0",
+    "firebase": "^12.12.1",
+    "lucide-react": "^1.14.0",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^7.15.0"
+  }
+}
